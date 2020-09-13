@@ -1,15 +1,11 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{Project_CssGrid_and_ResponsiveLayout___My_Team___}</h1>
 
 
 <div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-     | 
-    <a href="https://{your-url-to-the-solution}">
+  <h3> 
+    <a href="https://{https://nurkocar.github.io/Project_CssGrid_and_ResponsiveLayout___My_Team___-/}">
       Project
     </a>
  
