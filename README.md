@@ -69,5 +69,5 @@ $ git clone https://github.com/nurkocar/Project_CssGrid_and_ResponsiveLayout___M
 
 - GitHub [@nurkocar](https://github.com/nurkocar)
 
-- Linkedin [@my-linkedin](https://www.linkedin.com/feed/)
+- Linkedin [@your-linkedin](https://www.linkedin.com/feed/)
 
