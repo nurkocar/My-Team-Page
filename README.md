@@ -57,7 +57,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/nurkocar/Project_CssGrid_and_ResponsiveLayout___My_Team___-.git
 
 # Install dependencies
 $ npm install
@@ -75,8 +75,7 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@nurkocar](https://{github.com/your-usermame})
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin [@your-linkedin](https://{www.linkedin.com/in/nur-kocar})
+
