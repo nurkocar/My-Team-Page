@@ -77,5 +77,5 @@ $ npm start
 
 - GitHub [@nurkocar](https://{github.com/your-usermame})
 
-- Linkedin [@your-linkedin](https://{www.linkedin.com/in/nur-kocar})
+- Linkedin [@your-linkedin](https://{linkedin.com/in/nur-kocar})
 
