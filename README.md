@@ -59,19 +59,11 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 # Clone this repository
 $ git clone https://github.com/nurkocar/Project_CssGrid_and_ResponsiveLayout___My_Team___-.git
 
-# Install dependencies
-$ npm install
 
-# Run the app
-$ npm start
-```
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Node.js](https://nodejs.org/)
-- [Marked](https://github.com/chjj/marked)
 
 ## Contact
 
