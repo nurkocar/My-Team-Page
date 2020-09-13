@@ -65,9 +65,11 @@ $ git clone https://github.com/nurkocar/Project_CssGrid_and_ResponsiveLayout___M
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
+
 ## Contact
 
-- GitHub [@nurkocar](https://github.com/nurkocar)
 
-- Linkedin [@your-linkedin](https://www.linkedin.com/feed/)
+- GitHub [@your-username](https://{github.com/nurkocar})
+
+- Linkedin [@your-linkedin](https://{linkedin.com/in/nur-kocar/})
 
