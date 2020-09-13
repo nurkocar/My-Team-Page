@@ -75,7 +75,7 @@ $ npm start
 
 ## Contact
 
-- GitHub [@nurkocar](https://{github.com/your-usermame})
+- GitHub [@nurkocar](https://github.com/nurkocar)
 
-- Linkedin [@your-linkedin](https://www.linkedin.com/feed/)
+- Linkedin [@my-linkedin](https://www.linkedin.com/feed/)
 
