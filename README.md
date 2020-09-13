@@ -5,8 +5,8 @@
 
 <div align="center">
   <h3> 
-    <a href="https://{https://nurkocar.github.io/Project_CssGrid_and_ResponsiveLayout___My_Team___-/}">
-      Project
+    <a href="https://nurkocar.github.io/Project_CssGrid_and_ResponsiveLayout___My_Team___-/">
+      My_Project_Link
     </a>
  
   </h3>
