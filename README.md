@@ -1,16 +1,12 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{Project_CssGrid_and_ResponsiveLayout___My_Team___}</h1>
 
 
 <div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-     | 
-    <a href="https://{your-url-to-the-solution}">
-      Project
+  <h3> 
+    <a href="https://nurkocar.github.io/Project_CssGrid_and_ResponsiveLayout___My_Team___-/">
+      My_Project_Link
     </a>
  
   </h3>
@@ -31,9 +27,14 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+This is the mobile view of my page
 
-Introduce your projects by taking a screenshot or a gif. 
+![screenshot](images/Mobile_view.PNG)
+
+This is the Complete view of my page
+
+![screenshot](images/CompleteView.PNG)
+ 
 
 ### Built With
 
@@ -41,41 +42,34 @@ Introduce your projects by taking a screenshot or a gif.
 
 - HTML
 - CSS
-- [React](https://reactjs.org/)
+
 
 
 ## Features
 
-This application/site was created as a submission to a [Clarusway](https://clarusway.com) Project/Challenges/etc. 
+This application/site was created as a submission to a [Clarusway](https://clarusway.com) Project. 
 
 ## How To Use
 
 <!-- This is an example, please update according to your application -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com).From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/nurkocar/Project_CssGrid_and_ResponsiveLayout___My_Team___-.git
 
-# Install dependencies
-$ npm install
 
-# Run the app
-$ npm start
-```
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Node.js](https://nodejs.org/)
-- [Marked](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://{github.com/nurkocar})
+
+- Linkedin [@your-linkedin](https://{www.linkedin.com/in/nur-kocar/})
+
