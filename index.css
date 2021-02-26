@@ -1,18 +1,18 @@
 * {
-    margin: 0;
+    margin: 0 0 3%;
     padding: 0;
     box-sizing: border-box;
 }
 #logo {
-    width: 20vh;
+    width: 10vw;
     height: auto;
     position: fixed;
     top: 5px;
-    right: 5px;
+    right: 10px;
     z-index: 1;
-    border-radius: 100px;
+    border-radius: 30%;
 }
-.header {    
+header {    
     display: flex;
     justify-content: space-between;
     margin-top: 55px;
@@ -31,7 +31,7 @@
     margin-top: 20px;
 }
 h1 {
-    font-size: 2.3em;
+    font-size: 2.3rem;
     line-height: 1em;
     font-weight: bold;
     font-family: 'PT Serif', serif;   
@@ -39,19 +39,17 @@ h1 {
 
 h3 {
     font-family: 'Poppins', sans-serif;
-    font-size: 1.1em;
+    font-size: 1.1rem;
     text-transform: uppercase;
     font-weight: 600;
 }
-.container {
-    
+section {
     height: 100%;
     width: auto;
-    
     display: grid;
     grid-gap: 5%;
     margin-left: 7%;
-    
+    margin-bottom: 3%;
     grid-template-columns: auto auto auto;
     justify-items:start;
     grid-template-areas: 
@@ -105,12 +103,12 @@ span {
 
 p {
     font-family: 'Poppins', sans-serif;
-    font-size: 1.1em;
+    font-size: 1.1rem;
 }
 
 h4 {
     font-weight: 600;
-    font-size: 1em;
+    font-size: 1rem;
     line-height: 1.3em;
     font-family: 'Poppins', sans-serif;
     margin-top: 15px;
@@ -119,9 +117,9 @@ h4 {
 
 @media (max-width: 1000px){
     #logo {
-        width: 18vh;
+        width: 16vw;
     }
-    .header {
+    header {
         flex-direction: column;
         margin-left: 5%;
     }
@@ -132,7 +130,7 @@ h4 {
         padding-left: 0%;
         width: 100%;
     }
-    .container {
+    section {
         margin-left: 8vw;
         grid-template-columns: auto auto;
         grid-template-areas: 
@@ -144,18 +142,6 @@ h4 {
     img {
         width: 35vw;
     }
-    .main2 {
-        /* margin-top: 20%;  */
-    }
-    .main4 {
-        /* margin-top: 20%; */
-    }
-    .main5 {
-        /* margin-top: 0; */
-    }
-    .main6 {
-        /* margin-top: 20%; */
-    }
     .main6>h4{
         padding-bottom: 10%;
     }
@@ -165,13 +151,10 @@ h4 {
 }
 @media (max-width: 460px){
     #logo {
-        width: 13vh;
+        width: 18vw;
     }
-
-}
-@media (min-width: 1000px){
-    #logo {
-        width:10vw;
+    .header-left h1 {
+        font-size: 1.75rem;   
     }
 
 }
