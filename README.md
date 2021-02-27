@@ -7,17 +7,17 @@
 ![The Creative Team-Project Demo](SurveyForm.gif)
 
 ---------------------------
-<h1 align="center">The Creative Team</h1>
+<h1 align="center">Project Details</h1>
 
 
-<div align="center">
+<!-- <div align="center">
   <h3> 
     <a href="https://nurkocar.github.io/My-Team-Page/">
       My_Project_Link
     </a>
  
   </h3>
-</div>
+</div> -->
 
 <!-- TABLE OF CONTENTS -->
 
