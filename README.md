@@ -1,11 +1,18 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Project_CssGrid_and_ResponsiveLayout___My_Team___}</h1>
+# Link To My Project [The Creative Team](https://nurkocar.github.io/My-Team-Page/)
+
+## Here is the view of my project...
+
+![The Creative Team-Project Demo](SurveyForm.gif)
+
+---------------------------
+<h1 align="center">The Creative Team</h1>
 
 
 <div align="center">
   <h3> 
-    <a href="https://nurkocar.github.io/Project_CssGrid_and_ResponsiveLayout___My_Team___-/">
+    <a href="https://nurkocar.github.io/My-Team-Page/">
       My_Project_Link
     </a>
  
@@ -20,7 +27,6 @@
 - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
@@ -55,22 +61,16 @@ This application/site was created as a submission to a [Clarusway](https://claru
 
 To clone and run this application, you'll need [Git](https://git-scm.com).From your command line:
 
-```bash
+
 # Clone this repository
-$ git clone https://github.com/nurkocar/Project_CssGrid_and_ResponsiveLayout___My_Team___-.git
+$ git clone https://github.com/nurkocar/My-Team-Page.git
 
-
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-```
 
 
 ## Contact
 
 
-- GitHub [@your-username](https://{github.com/nurkocar})
+- GitHub [@nurkocar](https://github.com/nurkocar)
 
-- Linkedin [@your-linkedin](https://{www.linkedin.com/in/nur-kocar/})
+- Linkedin [@nurkocar](https://www.linkedin.com/in/nur-kocar/)
 
