@@ -4,7 +4,7 @@
 
 ## Here is the view of my project...
 
-![The Creative Team-Project Demo](images/TheCreativeCrew.gif)
+![The Creative Team - Project Demo](./images/TheCreativeCrew.gif)
 
 ---------------------------
 <h1 align="center">Project Details</h1>
